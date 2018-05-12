@@ -1,0 +1,36 @@
+_repo: Tripping-with-the-Tucker-Twins_36672
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Scott, A. O. (Arthur O.)
+    alias: Scott, Arthur O.
+    gutenberg_agent_id: '25205'
+    url: http://www.gutenberg.org/2009/agents/25205
+covers:
+- cover_type: archival
+  image_path: 36672-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Speed, Nell
+    birthdate: 1878
+    deathdate: 1913
+    gutenberg_agent_id: '9429'
+    url: http://www.gutenberg.org/2009/agents/9429
+description: ''
+gutenberg_issued: '2011-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36672'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South Carolina -- Description and travel -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Automobiles -- Juvenile fiction'
+- !lcsh 'Young women -- Social life and customs -- Juvenile fiction'
+- !lcsh 'Travel -- Juvenile fiction'
+- !lcsh 'Twins -- Juvenile fiction'
+title: Tripping with the Tucker Twins
+url: http://www.gutenberg.org/ebooks/36672
